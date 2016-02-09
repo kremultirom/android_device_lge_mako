@@ -150,3 +150,6 @@ MR_KEXEC_MEM_MIN := 0x85000000
 MR_INFOS := device/lge/mako/mrom_infos
 MR_DEVICE_RECOVERY_HOOKS := device/lge/mako/mr_hooks_recovery.c
 MR_DEVICE_RECOVERY_HOOKS_VER := 1
+
+DEVICE_RESOLUTION := 768x1280
+TARGET_RECOVERY_IS_MULTIROM := true

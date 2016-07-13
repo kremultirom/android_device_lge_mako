@@ -1,9 +1,9 @@
 [
   {
-    "remote":      "omnirom",
-    "repository":  "android_kernel_lge_mako",
+    "remote":      "kremultirom",
+    "repository":  "kernel_lge_mako",
     "target_path": "kernel/lge/mako",
-    "revision":    "android-6.0"
+    "revision":    "android-6.0-f2fs"
   },
   {
     "remote":      "omnirom",
@@ -11,10 +11,4 @@
     "target_path": "external/stlport",
     "revision":    "android-6.0"
   },
-  {
-    "remote": "omnirom",
-    "repository": "android_packages_apps_SnapdragonCamera",
-    "target_path": "packages/apps/SnapdragonCamera",
-    "revision": "android-6.0"
-  }
 ]
